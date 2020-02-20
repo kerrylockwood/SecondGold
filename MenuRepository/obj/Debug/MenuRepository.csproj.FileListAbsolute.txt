@@ -1,0 +1,5 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\MenuRepository\obj\Debug\MenuRepository.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\MenuRepository\bin\Debug\MenuRepository.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\MenuRepository\bin\Debug\MenuRepository.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\MenuRepository\obj\Debug\MenuRepository.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\MenuRepository\obj\Debug\MenuRepository.pdb

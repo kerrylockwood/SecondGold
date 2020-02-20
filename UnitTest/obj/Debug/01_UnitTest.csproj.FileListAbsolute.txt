@@ -1,0 +1,15 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\obj\Debug\01_UnitTest.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\UnitTest.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\UnitTest.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\MenuRepository.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\MenuRepository.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\obj\Debug\01_UnitTest.csproj.CopyComplete
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\obj\Debug\UnitTest.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\UnitTest\obj\Debug\UnitTest.pdb

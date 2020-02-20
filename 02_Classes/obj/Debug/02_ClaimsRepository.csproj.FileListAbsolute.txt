@@ -1,0 +1,5 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Classes\bin\Debug\02_Classes.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Classes\bin\Debug\02_Classes.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Classes\obj\Debug\02_Classes.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Classes\obj\Debug\02_Classes.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Classes\obj\Debug\02_ClaimsRepository.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\bin\Debug\01_Cafe.exe.config
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\bin\Debug\01_Cafe.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\bin\Debug\01_Cafe.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\obj\Debug\01_Cafe.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\obj\Debug\01_Cafe.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\obj\Debug\01_Cafe.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\bin\Debug\MenuRepository.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\bin\Debug\MenuRepository.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\01_Cafe\obj\Debug\01_Cafe.csproj.CopyComplete

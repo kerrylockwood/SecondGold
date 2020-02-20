@@ -1,0 +1,6 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\00_MainMenu\bin\Debug\00_MainMenu.exe.config
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\00_MainMenu\bin\Debug\00_MainMenu.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\00_MainMenu\bin\Debug\00_MainMenu.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\00_MainMenu\obj\Debug\00_MainMenu.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\00_MainMenu\obj\Debug\00_MainMenu.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\00_MainMenu\obj\Debug\00_MainMenu.pdb

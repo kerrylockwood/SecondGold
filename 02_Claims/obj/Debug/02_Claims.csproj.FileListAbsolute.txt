@@ -1,0 +1,9 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\obj\Debug\02_Claims.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\bin\Debug\02_Claims.exe.config
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\bin\Debug\02_Claims.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\bin\Debug\02_Claims.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\bin\Debug\02_Classes.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\bin\Debug\02_Classes.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\obj\Debug\02_Claims.csproj.CopyComplete
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\obj\Debug\02_Claims.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\02_Claims\obj\Debug\02_Claims.pdb

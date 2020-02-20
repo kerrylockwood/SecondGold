@@ -1,0 +1,9 @@
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\bin\Debug\Badges.exe.config
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\bin\Debug\Badges.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\bin\Debug\Badges.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\bin\Debug\03_Classes.dll
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\bin\Debug\03_Classes.pdb
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\obj\Debug\03_Badges.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\obj\Debug\03_Badges.csproj.CopyComplete
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\obj\Debug\Badges.exe
+C:\1150Projects\Gold.NET\SecondGold\SecondGold\Badges\obj\Debug\Badges.pdb
