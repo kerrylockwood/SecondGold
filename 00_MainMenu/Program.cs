@@ -1,5 +1,4 @@
-﻿using _01_Cafe;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +20,7 @@ namespace _00_MainMenu
                 Console.WriteLine("      Komodo Main Menu");
                 Console.WriteLine("  1. Menu");
                 Console.WriteLine("  2. Claims");
-                Console.WriteLine("  3. ?????");
+                Console.WriteLine("  3. Badges");
                 Console.WriteLine("  9. Exit");
                 Console.WriteLine("\nPlease select an option: ");
 
@@ -37,16 +36,17 @@ namespace _00_MainMenu
                     switch (selection)
                     {
                         case 1:
-                            ProgramUI _ui = new _01_Cafe.ProgramUI();
-                            _ui.Run();
+                            // Needed to add the namespaces to the References under 00_MainMenu
+                            _01_Cafe.ProgramUI _menuUI = new _01_Cafe.ProgramUI();
+                            _menuUI.Run();
                             break;
                         case 2:
-                            //ProgramUI _ui = new _02_Claims.ProgramUI();
-                            //_ui.Run();
+                            _02_Claims.ClaimsUI _claimUI = new _02_Claims.ClaimsUI();
+                            _claimUI.Run();
                             break;
                         case 3:
-                            //ProgramUI _ui = new ProgramUI();
-                            //_ui.Run();
+                            _03_Badges.BadgeUI _badgeUI = new _03_Badges.BadgeUI();
+                            _badgeUI.Run();
                             break;
                         case 9:
                             running = false;

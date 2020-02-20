@@ -54,6 +54,14 @@
       <Project>{129AB6A6-8797-46C5-B4A8-B0D6E864094B}</Project>
       <Name>01_Cafe</Name>
     </ProjectReference>
+    <ProjectReference Include="..\02_Claims\02_Claims.csproj">
+      <Project>{dfdba566-bdd6-4d28-81e9-ad487716272f}</Project>
+      <Name>02_Claims</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Badges\03_Badges.csproj">
+      <Project>{d825f689-ca8a-4798-a56a-4d013b34296a}</Project>
+      <Name>03_Badges</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

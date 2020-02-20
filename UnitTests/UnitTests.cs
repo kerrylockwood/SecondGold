@@ -4,7 +4,7 @@ using System.Linq;
 using _03_Classes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace UnitTests
+namespace _03_UnitTests
 {
     [TestClass]
     public class UnitTests

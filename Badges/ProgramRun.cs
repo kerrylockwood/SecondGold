@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Badges
+namespace _03_Badges
 {
     class ProgramRun
     {
         static void Main(string[] args)
         {
-            ProgramUI _programUI = new ProgramUI();
+            BadgeUI _programUI = new BadgeUI();
             _programUI.Run();
         }
     }

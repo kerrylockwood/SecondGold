@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _02_Claims
 {
-    class ProgramUI
+    public class ClaimsUI
     {
         private readonly ClaimReposit _claimRepo = new ClaimReposit();
 

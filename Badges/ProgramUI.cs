@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Badges
+namespace _03_Badges
 {
-    public class ProgramUI
+    public class BadgeUI
     {
         protected readonly BadgeRepository _badgeRepo = new BadgeRepository();
 
